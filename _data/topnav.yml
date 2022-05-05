@@ -1,0 +1,13 @@
+- name: home
+  label: صفحه نخست
+  link: /
+  faClass: "bi bi-house-fill"
+- name: mapAlbum
+  label: آلبوم نقشه
+  link: '/reports/mapAlbum.pdf'
+- name: kholase
+  label: خلاصه گزارش
+  link: /reports/V00.pdf
+- name: update
+  label: "آخرین بروزرسانی: "
+  link: '#'
